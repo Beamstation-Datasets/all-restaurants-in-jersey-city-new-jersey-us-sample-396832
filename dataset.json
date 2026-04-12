@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Jersey City, New Jersey with a population of over 292k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Jersey City, New Jersey, US",
+  "export_job_id": "452b6a84-35b5-420f-991b-d14f14e16715",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 396832,
+  "location_name": "Jersey City",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-jersey-city-new-jersey-us-sample-396832",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/396832/beamstation_396832_restaurants-us-nj_SAMPLE_DIST.csv",
+  "sample_pct": 3.19,
+  "sample_records": 25,
+  "sample_sha256": "8e1c3bbeb8feb752d06f2755d8169ba5e20e7bddbe7a6e1dfb38c9893c0bcf00",
+  "sample_size_bytes": 115291,
+  "total_records": 783,
+  "updated_at": "2026-03-31T14:42:01.847556+00:00"
+}
